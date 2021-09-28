@@ -1,0 +1,57 @@
+
+img.freira {
+    float:left;
+    clear: both;
+    margin: 1%;
+}
+img.vingadores{
+    float: left;
+    clear: both;
+    margin: 1%;
+}
+img.wanda{
+    float: left;
+    clear: both;
+    margin:1%;
+}
+img.capita{
+    float: left;
+    clear: both;
+    margin: 1%;
+}
+div.freira{
+    background-color: #696969;
+    float: left;
+    border: 2px solid;
+}
+div.vingadores{
+    background-color: #9F79EE;
+    float: left;
+    border: 2px solid;
+}
+div.wanda{
+    background-color: #66CDAA;
+    float: left;
+    border: 2px solid;
+}
+div.capita{
+    background-color: #FF3030;
+    float: left;
+    border: 2px solid;
+}
+p.freira{
+    text-align: justify;
+    margin-left: 17%;
+}
+p.vingadores{
+    text-align: justify;
+    margin-left: 17%;
+}
+p.wanda{
+    text-align: justify;
+    margin-left: 17%;
+}
+p.capita{
+    text-align: justify;
+    margin-left: 17%;
+}
