@@ -1,0 +1,26 @@
+body{
+    background-color: #FFF5EE;
+}
+div.box-titulo{
+    background-color: #F5FFFA;
+    padding: 10px;
+    text-align: center;
+}
+div.imagem-toledo{
+    margin: auto;
+    background-color: #F5FFFA;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+div.conteudo{
+    background-color: #F5FFFA;
+    text-align: justify;
+    margin-right: 5%
+}
+div.historia{
+    text-align: justify;
+    margin-top: 10%;
+    margin: 0%;
+    
+}
